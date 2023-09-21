@@ -9,8 +9,8 @@ body, html {
   padding: 16px;
   box-sizing: border-box;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: repeat(5, 140px);
+  grid-template-columns: 300px 900px;
+  grid-template-rows: 100px;
   gap: 12px;
 }
 
